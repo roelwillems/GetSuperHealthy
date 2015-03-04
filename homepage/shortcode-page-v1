@@ -1,0 +1,120 @@
+<div class="x-main full">
+<div class="x-container max width offset">
+[column type="two-thirds"]
+
+<span class="must-read">Must reads:</span>
+
+[slider animation="slide" no_container="true" slide_time="2500" slide_speed="200" slideshow="true" random="false" control_nav="true" prev_next_nav="false"] 
+
+[slide]
+[catlist numberposts=1 name=featured thumbnail=yes instance=11 template=homepage_top] 
+[/slide] 
+
+[slide] 
+[catlist numberposts=1 name=featured offset=1 thumbnail=yes instance=12 template=homepage_top] 
+[/slide] 
+
+[slide] 
+[catlist numberposts=1 name=featured offset=2 thumbnail=yes instance=13 template=homepage_top] 
+[/slide] 
+
+[slide] 
+[catlist numberposts=1 name=featured offset=3 thumbnail=yes instance=14 template=homepage_top] 
+[/slide] 
+
+[slide] 
+[catlist numberposts=1 name=featured offset=4 thumbnail=yes instance=15 template=homepage_top] 
+[/slide] 
+
+[/slider]
+
+
+[blockquote type="center"]<a href="http://getsuperhealthy.nl/go/bodyenfitshop/50procentkorting" target="_blank" rel="nofollow"><img src="http://ti.tradetracker.net/?c=11113&amp;m=693465&amp;a=204529&amp;r=&amp;t=html" width="728" height="90" border="0" alt="" /></a>[/blockquote]
+[content_band bg_color="#fff" border="all"] [container] [custom_headline style="margin: 0;" type="center" level="h4" looks_like="h3" accent="true"]Check it out:[/custom_headline] 
+<p>Uit liefde zijn we gestart met getsuperhealthy.nl. Elke week kwamen we er bij ons op kantoor nieuwe ladingen pakketjes met noten, eiwitshakes, creatinepoeder en sportartikelen binnen. Vaak leidde dit tot uit de hand gelopen gesprekken. Wat is jouw favoriete workout? Welke eiwitpoedershake vind jij het lekkerst?</p>
+<p>Door deze enthousiasme voor sporten in combinatie met een gezonde voedselpatroon was het eigenlijk gek dat we die kennis niet onderling gingen delen. En dat doen we nu, ook met jou, via GETSUPERHEALTHY!</p> 
+[/container] [/content_band]
+
+<h1>#GETSUPERHEALTHY ARTIKELEN</h1>
+<div class="intro">Dagelijks schrijven wij over alles wat met sport, voeding én een gezonde levenstijl te maken heeft. Gewoon omdat we het leuk vinden en graag onze ervaringen met je willen delen!</div>
+
+[block_grid type="two-up"]
+[block_grid_item]
+[catlist numberposts=1 author=yes date=yes excerpt=yes thumbnail=yes instance=1 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=3 excerpt=yes thumbnail=yes instance=3 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=5 excerpt=yes thumbnail=yes instance=5 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=7 excerpt=yes thumbnail=yes instance=7 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=9 excerpt=yes thumbnail=yes instance=9 template=homepage]
+[/block_grid_item]
+
+ 
+[block_grid_item]
+[catlist numberposts=1 author=yes date=yes offset=2 excerpt=yes thumbnail=yes instance=2 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=4 excerpt=yes thumbnail=yes instance=4 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=6 excerpt=yes thumbnail=yes instance=6 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=8 excerpt=yes thumbnail=yes instance=8 template=homepage]
+[catlist numberposts=1 author=yes date=yes offset=10 excerpt=yes thumbnail=yes instance=10 template=homepage]
+[/block_grid_item] 
+[/block_grid]
+<div class="intro"><a href="http://getsuperhealthy.nl/blog">Lees alle artikelen op ons blog</a></div>
+[/column] 
+
+
+[column type="one-third" last="true"]
+[content_band]
+[container]<img src="http://getsuperhealthy.nl/wp-content/uploads/10990859_747232425390274_738236538531183350_o.jpeg" alt="" />[/container][/content_band]
+
+
+<div class="entry-wrap">
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="thumbs-o-up"] Stuff we like</span></h2>
+<a href="http://getsuperhealthy.nl/go/bodyenfitshop/beste-eiwit-deals" target="_blank" rel="nofollow"><img src="http://ti.tradetracker.net/?c=11113&amp;m=689589&amp;a=204529&amp;r=&amp;t=html" width="250" height="250" border="0" alt="" /></a>
+<h2 class="h-custom-headline h5 accent"><span>#GETSUPERHEALTY</span></h2>
+<p>Heb je een mooie sportive prestatie of juist een leuke lifestyle update? Deel hem met ons via #getsuperhealthy</p>
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="bars"] Categorieën</span></h2>
+<a href="http://getsuperhealthy.nl/category/sporten/">Sporten</>
+<a href="http://getsuperhealthy.nl/category/playlists/">Playlists</>
+<a href="http://getsuperhealthy.nl/category/motivtion/">Motivation</>
+<a href="http://getsuperhealthy.nl/category/voeding/">Voeding</>
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="camera-retro"] Instagram</span></h2>
+[jr_instagram id="2"]
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="heart-o"] Stuff we love</span></h2>
+<a href="http://getsuperhealthy.nl/go/bodyenfitshop/beste-eiwit-deals" target="_blank" rel="nofollow"><img src="http://ti.tradetracker.net/?c=11113&amp;m=689589&amp;a=204529&amp;r=&amp;t=html" width="250" height="250" border="0" alt="" /></a>
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="bar-chart-o"] Poll</span></h2>
+[counter num_start="0" num_end="2072" num_suffix=" <i class='x-icon x-icon-trophy-o'></i>" num_speed="1500" num_color="#2ecc71" text_above="In 2014 hebben we samen" text_below="KM gelopen"]
+
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="hand-o-right"] Social</span></h2>
+[icon type="facebook-square"]<a href="https://www.facebook.com/getsuperhealthynl" class="facebook" title="Facebook" target="_blank">Facebook</a>
+[icon type="twitter-square"]<a href="https://twitter.com/getsuperhealthy" class="twitter" title="Twitter" target="_blank">Twitter</a>
+[icon type="instagram"]<a href="http://instagram.com/getsuperhealthy" class="instagram" title="Instagram" target="_blank">Instagram</a>
+[icon type="pinterest-square"]<a href="https://nl.pinterest.com/getsuperhealthy/" class="pinterest" title="Pinterest" target="_blank">Pintrest</a>
+
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="calendar"] Sportkalender</span></h2>
+[ecs-list-events limit='8']
+<a href="http://www.getsuperhealthy.nl/kalender/">Meer sportevenementen</a></p>
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="trophy"] Blogsociety</span></h2>
+<div style="width: 180px !important;height: 177px !important;"><div style="display: block;"><a href="http://blogsociety.telegraaf.nl/" class="BoomadsButtonLink62" target="_blank"><img src="http://widget.boomads.com/images/blogsociety-black-badge-180.png" alt="BlogSociety"/></a></div></div><script type="text/javascript">
+boomads_widget_client = "0651c6b7589a4e2894e040bc0056e4a9";
+boomads_widget_id = "62";
+boomads_widget_width = "0";
+boomads_widget_height = "0";
+boomads_widget_trackingparameter = "http://blogsociety.telegraaf.nl/";
+</script><script type="text/javascript" src="http://widget.boomads.com/scripts/widget.js"></script>
+
+<h2 class="h-custom-headline h5 accent"><span>[icon type="trophy"] Bloglovin</span></h2>
+
+
+</div>
+[/column]
+
+
+
+
+</div></div>
